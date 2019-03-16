@@ -1,1 +1,1 @@
-# componente-comune
+# simple-footer
